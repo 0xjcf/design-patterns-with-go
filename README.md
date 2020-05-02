@@ -8,3 +8,4 @@ Hoping to add a new pattern at least once a week, and rate it's difficulty from 
 ### Contents
 - Creational
   - [Singleton](./creational/singleton/)
+  - [Builder](./creational/builder/)
