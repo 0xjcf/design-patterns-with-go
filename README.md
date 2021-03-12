@@ -9,3 +9,4 @@ Hoping to add a new pattern at least once a week, and rate it's difficulty from 
 - Creational
   - [Singleton](./creational/singleton/)
   - [Builder](./creational/builder/)
+  - [Factory](./creational/factory/)
